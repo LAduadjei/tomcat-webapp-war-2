@@ -100,7 +100,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name> Nexus Repository </name>
-	      <url> http://52.91.216.94:8081/repository/Tomcat-webapp-dev/ </url>
+	      <url> http://52.91.216.94:8081/repository/tomcat-webapp-war-dev/ </url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
